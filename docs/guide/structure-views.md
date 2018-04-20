@@ -108,7 +108,7 @@ other places by calling view rendering methods. These methods share a similar si
 
 ```
 /**
- * @param string $view view name or file path, depending on the actual rendering method
+ * @view string $view view name or file path, depending on the actual rendering method
  * @param array $params the data to be passed to the view
  * @return string rendering result
  */
